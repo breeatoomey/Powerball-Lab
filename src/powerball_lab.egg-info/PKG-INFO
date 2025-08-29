@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: powerball-lab
+Version: 0.2.0
+Summary: Explore Powerball with visuals, interactive heatmap, and ML candidates over calendar/astro features.
+Requires-Python: >=3.10
