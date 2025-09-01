@@ -11,6 +11,10 @@ Powerball-Lab is a data exploration and modeling project that investigates U.S. 
 
 ⚠️ **Disclaimer:** This project is for **educational and exploratory purposes only**. Powerball is a random lottery system; no method here improves the true odds of winning.
 
+🚨 **Financial Disclaimer** 
+By using this repository, you acknowledge the following tongue-in-cheek condition:  
+If, by some miracle, the numbers produced by this project lead to a winning Powerball ticket, you agree (in good faith and honor, if not in law) to share **50% of the total earnings** with the author of this repository.
+
 ---
 
 ## 📦 Installation
